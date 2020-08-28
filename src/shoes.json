@@ -1,0 +1,47 @@
+{
+    "Red Zoom Racer Nike": {
+        "name": "RACER Red",
+        "price" : "$50",
+        "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+    },
+    "Black Zoom Racer Nike": {
+        "name": "Zoom Racer Black",
+        "price" : "$55",
+        "img": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80"
+    },
+    "Blue Foot Wear Nike": {
+        "name": "Blue Foot Wear Nike",
+        "price" : "$50",
+        "img": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+    },
+    "air-jordan-3-valor-blue": {
+        "name": "VALOUR BLUE",
+        "price" : "$60",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "jordan-mars-270-london": {
+        "name": "JORDAN MARS 270 LONDON",
+        "price" : "$70",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air-jordan-1-zoom-racer-blue": {
+        "name": "RACER BLUE",
+        "price" : "$40",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air-jordan-3-valor-blue1": {
+        "name": "VALOUR BLUE",
+        "price" : "$75",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "jordan-mars-270-london2": {
+        "name": "JORDAN MARS 270 LONDON",
+        "price" : "$20",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air-jordan-1-zoom-racer-blue3": {
+        "name": "RACER BLUE",
+        "price" : "$40",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    }
+}

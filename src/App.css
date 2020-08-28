@@ -1,0 +1,36 @@
+ul{
+  list-style: none;
+}
+.App{
+  text-align:center;
+}
+.carousel .slider-wrapper.axis-horizontal .slider .slide{
+  height: 600px !important;
+}
+a:hover{
+  text-decoration: none !important;
+}
+
+a{
+  color:black !important;
+}
+.text-primary
+{
+  color: #3f51b5 !important;
+
+}
+.small{
+  font-size:30px;
+  font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+  .display-1{
+    font-size:35px;
+    font-weight: bolder;
+  }
+  .small{
+    font-size:20px;
+    font-weight: bolder;
+  }
+}
